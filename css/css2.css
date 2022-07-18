@@ -1,0 +1,13 @@
+h2:nth-child(9) {
+    color: red;
+}
+.all {
+    position: relative;
+    left: 620px;
+    color: green;
+}
+.heading {
+    position: relative;
+    left: 50px;
+    color: blue;
+}

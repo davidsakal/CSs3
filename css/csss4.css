@@ -1,0 +1,7 @@
+.name{
+    background-color: green;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: lightcoral;
+}

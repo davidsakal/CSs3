@@ -1,0 +1,15 @@
+.middle{
+    color: blue;
+}
+b{
+    color: blue;
+}
+div :nth-child(6){
+color: red;
+}
+#Frirst{
+    color: red;
+}
+h1+p {
+    color: blue;
+}

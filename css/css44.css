@@ -1,0 +1,31 @@
+.table1{
+    position: relative;
+    height: 500px;
+    width: 600px;
+
+}
+.table1 tr:nth-child(odd) td:nth-child(odd) {
+	background: green;
+}	
+.table1 tr:nth-child(even) td:nth-child(even) {
+	background: green;
+}
+.tr1::first-letter {
+    color: red;
+}
+.letter{
+    position: relative;
+}
+td.tr1::first-letter {
+    color: red;
+}
+.text{
+    position: relative;
+   top: 5px;
+}
+p::first-letter {
+color: red;
+}
+.text1{
+ color: lightgreen;
+}

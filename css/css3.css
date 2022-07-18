@@ -1,0 +1,46 @@
+
+.shedule{
+   position: relative;
+   left: 27px;
+   font-size: small;
+}
+.shedule2{
+    position: relative;
+    left: 27px;
+    font-size: small;
+    top: 30px;
+ }
+ .shedule3{
+    position: relative;
+    left: 172px;
+    font-size: small;
+    bottom: 189px;
+ }
+ .shedule4{
+    position: relative;
+    left: 172px;
+    font-size: small;
+    bottom: 160px;
+ }
+ .shedule5{
+    position: relative;
+    left: 105px;
+    font-size: small;
+    bottom: 127px;
+ }
+
+ .aqua{
+    table-layout: fixed;
+    width: 710px;
+    text-align: center;
+    vertical-align: middle;
+    height: 300x;
+ }
+ .aqua td:nth-child(1){
+    width: 30px;
+ }
+ .blue {
+    background-color: lightblue;
+    font-weight: bold;
+    vertical-align: top;
+ }
